@@ -1,6 +1,6 @@
 baseURL = "http://josafatjdev.works/my_launchx_blog/"
 languageCode = "en-us"
-title = "Blog Mission Backend | Nodejs"
+title = " Nodejs"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
