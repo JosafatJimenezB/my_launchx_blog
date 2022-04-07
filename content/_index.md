@@ -9,7 +9,7 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 
 
-"El único modo de hacer un gran trabajo es amar lo que hace."
+"El único modo de hacer un gran trabajo es amar lo que hace." <br>
 -steve jobs
 
 
