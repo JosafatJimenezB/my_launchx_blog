@@ -7,4 +7,10 @@ Hola ✌️  soy el explorer **[@JosafatJimenezB](https://github.com/JosafatJime
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+
+
+"El único modo de hacer un gran trabajo es amar lo que hace."
+-steve jobs
+
+
 🚀

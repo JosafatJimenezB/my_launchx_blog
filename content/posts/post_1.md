@@ -4,9 +4,6 @@ date: 2022-03-01
 description: 'Contenido de mi ruta de aprendeizaje en desarrollo backend con Node JS'
 ---
 
-Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.
-
-
 ¡Hola! :hand:
 
 
